@@ -1,3 +1,3 @@
 # reu-galaxies
 
-#Repository for OU REU 2025 Project
+OU 2025 REU Summer Project on structures of edge-on spiral galaxies
